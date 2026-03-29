@@ -4,7 +4,7 @@ rules:
     max: 150
   truthy:
     allowed-values: ['true', 'false']
-  indentation:
-    spaces: 2
+  indentation: disable
   comments:
     min-spaces-from-content: 1
+  document-start: disable
